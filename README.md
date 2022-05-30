@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasnoguueira I'am 26 years old.
-- 
+
 - chemical engineer looking for a career transition. Studying Full stack dev python.
 
 Hope u enjoy my projects!
