@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @lucasnoguueira I'am 26 years old.
+- 👋 Hi, I’m @lucasnoguueira I'am 27 years old.
 
-- Chemical engineer working as Front-end developer at Educação Metodista. Studying Full stack dev python.
+- Chemical engineer working as Front-end developer at Educação Metodista.
+  
+- Full stack dev python.
+
+- Studying systems analysis and development.
 
 Hope u enjoy my projects!
 
